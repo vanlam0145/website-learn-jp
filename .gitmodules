@@ -6,4 +6,4 @@
 	url = https://github.com/HoangNguyen1998/KLTN_USER.git
 [submodule "code/DashboardLearnJPAPI"]
 	path = code/DashboardLearnJPAPI
-	url = git@gitlab.com:vanlam0145/dashboardlearnjpapi.git
+	url = https://gitlab.com/vanlam0145/dashboardlearnjpapi.git
