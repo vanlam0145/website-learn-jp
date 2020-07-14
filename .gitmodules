@@ -4,9 +4,6 @@
 [submodule "code/KLTN_USER"]
 	path = code/KLTN_USER
 	url = https://github.com/HoangNguyen1998/KLTN_USER.git
-[submodule "code/DashboardLearnJPAPI"]
-	path = code/DashboardLearnJPAPI
-	url = https://gitlab.com/vanlam0145/dashboardlearnjpapi.git
 [submodule "code/api-server-learnJp"]
 	path = code/api-server-learnJp
 	url = https://github.com/vanlam0145/api-server-learnJp.git
