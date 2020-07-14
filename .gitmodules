@@ -1,0 +1,9 @@
+[submodule "code/KLTN_ADMIN"]
+	path = code/KLTN_ADMIN
+	url = https://github.com/HoangNguyen1998/KLTN_ADMIN.git
+[submodule "code/KLTN_USER"]
+	path = code/KLTN_USER
+	url = https://github.com/HoangNguyen1998/KLTN_USER.git
+[submodule "code/DashboardLearnJPAPI"]
+	path = code/DashboardLearnJPAPI
+	url = git@gitlab.com:vanlam0145/dashboardlearnjpapi.git
